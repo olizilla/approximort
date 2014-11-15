@@ -1,0 +1,20 @@
+{
+  "name": "aproximort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/testIndex.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytewise": "0.7.1",
+    "levelup": "0.19.0",
+    "memdown": "1.0.0",
+    "morton": "1.0.2"
+  },
+  "devDependencies": {
+    "tape": "3.0.3"
+  }
+}
